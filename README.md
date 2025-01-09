@@ -1,6 +1,6 @@
-![主要】 ( https://github.com/user-attachments/assets/c55f60c9-d61e-4e03-8f55-a1642d2107bf )LKAM-Net：基于大核池化注意力机制和多尺度边缘增强的自动裂纹分割网络
-所提出的网络的主要框架如下：
-![正在上传 main.png... ] ( )
+LKAM-Net: Automatic crack segmentation network based on large kernel pooling attention mechanism and multi-scale edge enhancement
+![main](https://github.com/user-attachments/assets/e35e572b-2e9d-4a51-b891-9794bc70bd70)
+
 I have trained and tested the codes on
 CUDA 12.1
 Python 3.8, install required packages by pip install 
