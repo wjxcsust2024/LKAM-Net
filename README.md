@@ -1,6 +1,6 @@
 LKAM-Net: Automatic crack segmentation network based on large kernel pooling attention mechanism and multi-scale edge enhancement
 
-This article has not yet been published and is being submitted to the SCI journal The Visual Computer
+This article has not yet been published and is being submitted to the SCI journal of The Visual Computer
 
 ![main](https://github.com/user-attachments/assets/e35e572b-2e9d-4a51-b891-9794bc70bd70)
 
