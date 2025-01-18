@@ -1,16 +1,14 @@
-LKAM-Net: Automatic crack segmentation network based on large kernel pooling attention mechanism and multi-scale edge enhancement
+LKAM-Net：基于大核池化注意力机制和多尺度边缘增强的自动裂纹分割网络
 
-This article has not yet been published and is being submitted to the SCI journal of The Visual Computer
+本文尚未发表，正在投稿
 
-![main](https://github.com/user-attachments/assets/e35e572b-2e9d-4a51-b891-9794bc70bd70)
-
-I have trained and tested the codes on
+我已经对代码进行了培训和测试
 CUDA 12.1
-Python 3.8, install required packages by pip install 
+Python 3.8，通过 pip install 安装所需的包
 
-The code usage process is as follows: Train-test-statistics; Among them, net8 is the main network, and block1 is the network backbone Transformer
+代码使用流程如下：训练-测试-统计；其中net8为主网络，block1为网络骨干Transformer
 
-Download the training and testing datasets used for our model. In addition, we provided our feasibility study results in the original paper.
-[Crack315.zip](https://github.com/user-attachments/files/18361392/Crack315.zip)
+下载我们模型的训练和测试数据集。此外，我们在原始论文中提供了吸气研究结果。
+[ Crack315.zip ] ( https://github.com/user-attachments/files/18361392/Crack315.zip )
 
 
